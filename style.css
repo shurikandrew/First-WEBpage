@@ -1,0 +1,19 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(195, 195, 195);
+    margin-left: calc(10%/6);
+    width: 30%;
+    padding: 20px 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+}
